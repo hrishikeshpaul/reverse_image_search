@@ -1,2 +1,2 @@
-# reverse_image_search
-Code for reverse image search
+# Reverse Image Search
+Code for reverse image search using deep neural networks
